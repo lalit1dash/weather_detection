@@ -125,7 +125,7 @@ This project is open-source and available under the MIT License.
 
 **Lalit Dash**
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/lalit1dash
 
 ---
 
